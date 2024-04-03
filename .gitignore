@@ -1,7 +1,6 @@
 /Agriculture.csv
-/Lasso.joblib
-/LinearRegression.joblib
-/RandomForestRegressor.joblib
-/Ridge.joblib
 /village_wise_survey_data_mission_antyodaya_2020.csv
-ElasticNet.joblib
+elastic_net_model.joblib
+lasso_regression_model.joblib
+linear_regression_model.joblib
+ridge_regression_model.joblib
